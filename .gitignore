@@ -1,0 +1,10 @@
+# Visual Studio Stuff
+*.user
+.vs/
+
+# Build Results
+bin/
+obj/
+
+# Personal
+notes.txt
